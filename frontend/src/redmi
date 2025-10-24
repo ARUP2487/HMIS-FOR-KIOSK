@@ -1,0 +1,13 @@
+Now let me check the frontend structure to see what UI components are available:
+Action: file_editor view /app/frontend/src
+Observation: /app/frontend/src/ (depth=2):
+/app/frontend/src/App.css
+/app/frontend/src/App.js
+/app/frontend/src/components/
+/app/frontend/src/components/ui/
+/app/frontend/src/hooks/
+/app/frontend/src/hooks/use-toast.js
+/app/frontend/src/index.css
+/app/frontend/src/index.js
+/app/frontend/src/lib/
+/app/frontend/src/lib/utils.js
